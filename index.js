@@ -72,6 +72,6 @@ app.delete("/discos/:id", (req, res) => {
   res.json({ message: "Disco Borrado" });
 });
 
-app.listen(3000, () => {
+app.listen(0.0.0.0, () => {
   console.log("Servidor funcionando en servidor 3000");
 });
