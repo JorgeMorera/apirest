@@ -1,1 +1,37 @@
-{"books":[{"id":1,"name":"Los 7 hábitos de la gente altamente efectiva","author":"Stephen R. Covey","year":1989},{"id":2,"name":"Padre rico, padre pobre","author":"Robert Kiyosaki","year":1997}]}
+{
+    "discografia": [
+        {
+            "id": 1,
+            "nombre": "Fin de Cristo",
+            "lanzamiento": "5 de abril 1997",
+            "tipo": "Demo",
+            "portada": "https://i.imgur.com/Gs7Ql8U.png",
+            "canciones":[
+                "Damned Soul",
+                "Mortal Throne",
+                "Mátame",
+                "Come Out from the Shadows",
+                "Profecía",
+                "Fin de Cristo / Incredulidad a tu Dios"
+            ]
+
+        },
+        {
+            "id": 2,
+            "nombre": "Return Of The Shadows",
+            "lanzamiento": "Agosto 1999",
+            "tipo": "Demo",
+            "portada": "https://i.imgur.com/ED8DXGk.png",
+            "canciones":[
+                "Intro (Revalación)",
+                "Mago negro",
+                "Leviathan",
+                "Alma maldita 'V 98'",
+                "Príncipes de la oscuridad",
+               " Ángel caído",
+                "Lagrimas de Jesús",
+                "Incertidumbre"
+            ]
+        }
+    ]
+}

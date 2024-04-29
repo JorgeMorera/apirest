@@ -23,55 +23,55 @@ const writeData = (data) => {
 };
 
 app.get("/", (req, res) => {
-  res.send("Welcome to my first API with Node js!");
+  res.send("bienvenidos a mi api");
 });
 
-app.get("/books", (req, res) => {
+app.get("/discos", (req, res) => {
   const data = readData();
-  res.json(data.books);
+  res.json(data.discografia);
 });
 
-app.get("/books/:id", (req, res) => {
+app.get("/discos/:id", (req, res) => {
   const data = readData();
   const id = parseInt(req.params.id);
-  const book = data.books.find((book) => book.id === id);
-  res.json(book);
+  const discos = data.discos.find((discos) => discos.id === id);
+  res.json(discos);
 });
 
-app.post("/books", (req, res) => {
+app.post("/discos", (req, res) => {
   const data = readData();
   const body = req.body;
-  const newBook = {
-    id: data.books.length + 1,
+  const nuevoDisco = {
+    id: data.discos.length + 1,
     ...body,
   };
-  data.books.push(newBook);
+  data.discos.push(nuevoDisco);
   writeData(data);
-  res.json(newBook);
+  res.json(nuevoDisco);
 });
 
-app.put("/books/:id", (req, res) => {
+app.put("/discos/:id", (req, res) => {
   const data = readData();
   const body = req.body;
   const id = parseInt(req.params.id);
-  const bookIndex = data.books.findIndex((book) => book.id === id);
-  data.books[bookIndex] = {
-    ...data.books[bookIndex],
+  const discoIndice = data.discos.findIndex((disco) => disco.id === id);
+  data.discos[discoIndice] = {
+    ...data.discos[discoIndice],
     ...body,
   };
   writeData(data);
-  res.json({ message: "Book updated successfully" });
+  res.json({ message: "Disco Actualizado" });
 });
 
-app.delete("/books/:id", (req, res) => {
+app.delete("/discos/:id", (req, res) => {
   const data = readData();
   const id = parseInt(req.params.id);
-  const bookIndex = data.books.findIndex((book) => book.id === id);
-  data.books.splice(bookIndex, 1);
+  const discoIndice = data.discos.findIndex((disco) => disco.id === id);
+  data.disco.splice(discoIndice, 1);
   writeData(data);
-  res.json({ message: "Book deleted successfully" });
+  res.json({ message: "Disco Borrado" });
 });
 
 app.listen(3000, () => {
-  console.log("Server listening on port 3000");
+  console.log("Servidor funcionando en servidor 3000");
 });
