@@ -32,6 +32,340 @@
                 "Lagrimas de Jesús",
                 "Incertidumbre"
             ]
+        },
+        {
+            "id": 3,
+            "nombre": "Return Of The Shadows",
+            "lanzamiento": "Agosto 1999",
+            "tipo": "Promo",
+            "portada": "https://i.imgur.com/VCfStzE.jpg",
+            "canciones":[
+                "Return of the Shadows Part I: Children of the Night (Dark Poetry)",
+                "Return of the Shadows Part II: Damned World (The Sing from Beyond)",
+                "Return of the Shadows Part III: The Awakening (Pagan Meeting) "
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Desolate Landscape Of The Human Soul",
+            "lanzamiento": "Septiembre 2000",
+            "tipo": "Album",
+            "portada": "https://i.imgur.com/ED8DXGk.png",
+            "canciones":[
+                "Atravéz de las arenas del tiempo",
+                "Black Sunset",
+                "Land of Silent Sorrow",
+                "…and Black Rose",
+                "Jesus Tears"
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Cos.Mi.Ka (Cosmic.Misanthropy.Kaos)",
+            "lanzamiento": "2002",
+            "tipo": "Album",
+            "portada": "https://i.imgur.com/oVKzVAu.png",
+            "canciones":[
+                "Cos.Mi.Ka. Revolution",
+                "Falling in the Spiritual Necropolis",
+                "In Natura Astra",
+                "Astral Black Mist",
+                "And a Black Rose (2002)",
+                "Stellar Requiem"
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "The Occult",
+            "lanzamiento": "2 de Febrero 2006",
+            "tipo": "Album",
+            "portada": "https://i.imgur.com/ucoRmAp.jpg",
+            "canciones":[
+                "De Origine Morborum Invisibilium",
+                "Conjuration of the Dead God",
+                "The Spawn of Chaos",
+                "Sphera Lunae",
+                "Village of Ghouls",
+                "Luciferian Mark",
+                "Midnight Moon",
+                "Anagarika God",
+                "The Seven Lords of the Underworld",
+                "Dark, Cold, Hellish"
+            ]
+        },
+        {
+            "id": 7,
+            "nombre": "Live at Hellgate... an Official Live (but Dead) Bootleg Recording",
+            "lanzamiento": "18 de Noviembre 2006",
+            "tipo": "Concierto",
+            "portada": "https://i.imgur.com/Y1WvCwo",
+            "canciones":[
+                "Jesus (You) Whore!",
+                "Falling in the Spiritual Necropolis",
+                "De Origine Morborum Invisibilium",
+                "Anagarika God",
+                "Midnight Moon",
+                "Sphera Lunae",
+                "Blood & Honour",
+                "De Origine Morborum Invisibilium (live at Baphomet Fest)",
+                "Jesus, (You) Whore! (live at Baphomet Fest)",
+                "Sphera Lunae (live at Baphomet Fest)",
+                "Angarika God (live at Baphomet Fest)"
+            ]
+        },
+        {
+            "id": 8,
+            "nombre": "Occult Warfare",
+            "lanzamiento": "2007",
+            "tipo": "Compartido",
+            "portada": "https://i.imgur.com/BrUPIMv.png",
+            "canciones":[
+                "Morbid Funeral - Falling in the Spiritual Necropolis",
+                "Morbid Funeral - In Natura Astra",
+                "Morbid Funeral - Deathcrush (Mayhem cover)",
+                "Legión - Instintos Terrenales",
+                "Legión - Supremo Elder",
+                "Legión - Murmur",
+                "Legión - Ritos de Muerte"
+            ]
+        },
+        {
+            "id": 9,
+            "nombre": "Satanas Rules the Earth (11 Fuckin’ Years of Underground War)",
+            "lanzamiento": "31 de Octubre 2007",
+            "tipo": "Copilado",
+            "portada": "https://i.imgur.com/BrUPIMv.png",
+            "canciones":[
+                "Jesus, (You) Whore!",
+                "Damned Soul",
+                "Dark, Cold, Hellis",
+                "Black Wizard",
+                "Dead God",
+                "Leviathan",
+                "The Gate of Nanna (Beherit cover)",
+                "Return of the Shadows"
+            ]
+        },
+        {
+            "id": 10,
+            "nombre": "Deathblast From Center Of Hell",
+            "lanzamiento": "19 de Diciembre 2008",
+            "tipo": "Compartido",
+            "portada": "https://i.imgur.com/tETXNlV.png",
+            "canciones":[
+                "Morbid Funeral - Touched by the Hand of Satan",
+                "Morbid Funeral - Unholy Redeemer",
+                "Morbid Funeral - Canonisation of the Holy Cunt",
+                "Morbid Funeral - Rise of the Unholy Victory",
+                "Necrólisis - Devastador Metal",
+                "Necrólisis - Venganza",
+                "Necrólisis - El fugitivo",
+                "Necrólisis - Déjalos arder",
+                "Paganus Doctrina - IX Inferno - The Antichrist’s Proclamation",
+                "Paganus Doctrina - Infernale Vox Satani",
+                "Paganus Doctrina - In Ente Spirituali"
+            ]
+        },
+        {
+            "id": 11,
+            "nombre": "Dead I Am",
+            "lanzamiento": "2010",
+            "tipo": "Copilado",
+            "portada": "https://i.imgur.com/Pw22c1z.png",
+            "canciones":[
+                "Dark, Cold, Hellish",
+                "Luciferian Mark",
+                "Astral Black Mist",
+                "Sphera Lunae",
+                "Black Sunset",
+                "De Origine Morborum Invisibilium",
+                "Black Wizard",
+                "Midnight Moon",
+                "Leviathan",
+                "Falling in the Spiritual Necropolis",
+                "Damned Soul"
+            ]
+        },
+        {
+            "id": 12,
+            "nombre": "Curse of Baphomet (Live 13/02/99)",
+            "lanzamiento": "19 de Mayo 2010",
+            "tipo": "Concierto",
+            "portada": "https://i.imgur.com/fNBJoys.png",
+            "canciones":[
+                "Retorno de las Sombras",
+                "Mago Negro / Leviathan",
+                "Angel Caído",
+                "Alma Maldita",
+                "Príncipes de la Oscuridad"
+            ]
+        },
+        
+        {
+            "id": 13,
+            "nombre": "The Morbid Rehearsals",
+            "lanzamiento": "20 de Enero 2011",
+            "tipo": "Concierto",
+            "portada": "https://i.imgur.com/fNBJoys.png",
+            "canciones":[
+                "Black Sunset",
+                "Mago Negro",
+                "Return of the Shadows",
+                "And a Black Rose",
+                "Incertidumbre",
+                "Jesus Tears",
+                "A traves de las Arenas del Tiempo",
+                "Conjuration of the Dead God (live at Baphomet Fest)",
+                "Midnight Moon (live at Baphomet Fest)"
+            ]
+        },
+        
+        {
+            "id": 14,
+            "nombre": "Lord Of Demons",
+            "lanzamiento": "10 de Octubre 2011",
+            "tipo": "EP",
+            "portada": "https://i.imgur.com/yZGVi3C.jpg",
+            "canciones":[
+                "Ia Ia Kutulu",
+                "De Vermis Misteriis",
+                "Lord of Demons",
+                "Beelzebuth (Mystifier cover)"
+            ]
+        },
+        {
+            "id": 15,
+            "nombre": "Fuck You All... In the Name Of The Goat",
+            "lanzamiento": "2012",
+            "tipo": "Compartido",
+            "portada": "https://i.imgur.com/tVD8zVK.png",
+            "canciones":[
+                "Equinoxio - Pandemic Horn",
+                ",Equinoxio - Black Mass (Pagan Altar cover)",
+                ",Equinoxio - Crush Rats",
+                ",Morbid Funeral - Spit the Nazarene",
+                ",Morbid Funeral - Worshippers of Evil",
+                ",Morbid Funeral - Into the Crypt of Rays (Celtic Frost cover)"
+            ]
+        },
+        {
+            "id": 16,
+            "nombre": "Promo - 2012",
+            "lanzamiento": "2012",
+            "tipo": "Promo",
+            "portada": "https://i.imgur.com/uZTIj5n.jpg",
+            "canciones":[
+                "Sphera Lunae",
+                "Astral Black Mist",
+                "Chalice of Goat Blood (Rehearsal)",
+                "Worshipers of Evil (Rehearsal)"
+            ]
+        },
+        {
+            "id": 17,
+            "nombre": "Sumerian Rites",
+            "lanzamiento": " 1 de Julio 2012",
+            "tipo": "Album",
+            "portada": "https://i.imgur.com/uZTIj5n.jpg",
+            "canciones":[
+                "Cthulhu Starseed",
+                "Summerian Rites of Chaos",
+                "The Spell (Azag-Thot Awake)",
+                "Nyarlathotep Invocation",
+                "Chalice of Goat Blood",
+                "Necromantia Oculta",
+                "Vinum Stigmata",
+                "The Ninazu Kingdom"
+            ]
+        },
+        {
+            "id": 18,
+            "nombre": "Devotion to Dark Sickness",
+            "lanzamiento": "15 de Febrero 2016",
+            "tipo": "Album",
+            "portada": "https://i.imgur.com/UBcjOky.png",
+            "canciones":[
+                "Morbid Funeral - Intro",
+                "Morbid Funeral - Punish the Whore of Babylon",
+                "Morbid Funeral - Dead God",
+                "Morbid Funeral - Chaos is my Life (The Exploited Cover)",
+                "Deformity - Death Prevails",
+                "Deformity - Consumed by the Grave",
+                "Deformity - Living Horror"
+            ]
+        },
+        {
+            "id": 19,
+            "nombre": "Summoning Chaos (22 Years of Unholy Cult Black Metal)",
+            "lanzamiento": "1 de Marzo 2018",
+            "tipo": "Copilado",
+            "portada": "https://i.imgur.com/1HhG7L7.png",
+            "canciones":[
+                "Atraves de las arenas del tiempo",
+                "Jesus Tears",
+                "In Natura Astra",
+                "Conjuration of the Dead God",
+                "Anagarika God",
+                "Spit the Nazarene",
+                "Worshipers of Evil",
+                "The Spell (Azag-Thot Awake)",
+                "Vinum Stigmata",
+                "Punish the Whore of Babylon",
+                "Sphera Lunae (Live)"
+            ]
+        },
+        {
+            "id": 20,
+            "nombre": "Huestes de profanación",
+            "lanzamiento": "15 de Enero 2019",
+            "tipo": "Compartido",
+            "portada": "https://i.imgur.com/Wj1VIgY.jpg",
+            "canciones":[
+                "Morbid Funeral - Midnight Moon",
+                "Morbid Funeral - Worshipers of Evil (Live)",
+                "Abatuar - Decapitación letrinal",
+                "Abatuar - Ordalias de hierro fundido",
+                "Abatuar - Acompañados a la tumba"
+            ]
+        },
+        {
+            "id": 22,
+            "nombre": "Death Comes To Us",
+            "lanzamiento": "2 de marzo 2020",
+            "tipo": "Concierto",
+            "portada": "https://i.imgur.com/HGvvQ50.png",
+            "canciones":[
+                "Necromantia Oculta",
+                "Ia Ia Kutulu",
+                "Sumerian Rites of Chaos",
+                "The Spell (Azag-Thot Awake)",
+                "De Origine Morborum Invisibilium",
+                "Black Wizard",
+                "Dead God",
+                "Beelzebuth (Mystifier cover)"
+            ]
+        },
+        {
+            "id": 23,
+            "nombre": "Triada infernal Círculo de hierro, sangre y fuego",
+            "lanzamiento": "Noviembre 2022",
+            "tipo": "Concierto",
+            "portada": "https://i.imgur.com/tiPBtzW.png",
+            "canciones":[
+                "Morbid Funeral - Evocatio Daemoniun",
+                "Morbid Funeral - Incertidumbre",
+                "Morbid Funeral - Sumerian Rites of Chaos (live)",
+                "Morbid Funeral - Punish the Whore (of Babylon) (live)",
+                "Morbid Funeral - Chalice of Goat Blood (live)",
+                "Mortigor - Vortex of Perpetual Blackened Feelings",
+                "Mortigor - Black Briage",
+                "Mortigor - Rise of the Dark Side",
+                "Mortigor - Blessings in Genocide",
+                "Alastor Sanguinary Embryo - The Infinity of Luciferian Wings",
+                "Alastor Sanguinary Embryo - The Four in Unisono",
+                "Alastor Sanguinary Embryo - …and Your Kingdom Has Fallen",
+                "Alastor Sanguinary Embryo - Sanguinary Embryo"
+            ]
         }
     ]
 }
